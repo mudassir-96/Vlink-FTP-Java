@@ -17,7 +17,7 @@ public class sort {
         }
         for (int i=0; i<arr.length; i++){
 //            System.out.println(arr[i]);
-            System.out.println(arr[arr.length-2]);
+            System.out.println(arr[arr.length-4]);
         }
 
 
